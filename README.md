@@ -17,6 +17,7 @@
 ## 🚀 Skills & Technologies
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
+- **Styling:** Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (MongoDB Atlas)
 - **Other Tools:** Git, GitHub, REST APIs
