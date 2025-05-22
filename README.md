@@ -36,7 +36,7 @@ I'm always open to learning and collaborating on exciting projects—especially 
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: [rohit.your.email@exampl.com](mailto:imrohit567@gmail.com) <!-- Replace with your real email -->
+- ✉️ Email: [imrohit567@gmail.com](mailto:imrohit567@gmail.com) <!-- Replace with your real email -->
 - 💼 LinkedIn: [linkedin.com/in/rohit-sharma-dev](https://www.linkedin.com/in/rohit-sharma-oo7) <!-- Replace with your LinkedIn -->
 - 🌐 Portfolio: [https://your-portfolio.com](https://rohit-sharma-portfolio-alpha-23.vercel.app/) <!-- Optional -->
 
